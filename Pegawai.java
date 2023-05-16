@@ -54,4 +54,8 @@ public class Pegawai {
 
     }
 
+    public void iniTesting(){
+        System.out.println("Testtt");
+    }
+
 }

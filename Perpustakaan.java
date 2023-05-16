@@ -20,4 +20,8 @@ public class Perpustakaan {
     public void tampilkaninfoPerpustakaan(){
         System.out.println();
     }
+
+    public Pelanggan getPelanggan(){
+        return null;
+    }
 }

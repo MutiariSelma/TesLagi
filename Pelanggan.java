@@ -33,4 +33,8 @@ public class Pelanggan {
     public void tampilkaninfoPelanggan(){
         
     }
+
+    public boolean isMatch(Pelanggan p) {
+        return false;
+    }
 }

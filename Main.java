@@ -31,6 +31,7 @@ public class Main {
         // perpus.pinjam("Cantika", "Cara cepat belajar Phyton");
 
         // perpus.tampilkaInfoPerpustakaan;
+        perpus.tampilkaInfoPerpustakaan();
     }
     
 }
